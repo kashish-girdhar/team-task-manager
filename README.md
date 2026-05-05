@@ -3,7 +3,7 @@
 A full-stack team task management system with authentication, role-based access control, project collaboration, and task tracking.
 
 ---
-
+Note: Backend is integrated with frontend and accessible via deployed frontend.
 ## 🛠 Tech Stack
 
 ### Frontend
